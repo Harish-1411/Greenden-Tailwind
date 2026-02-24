@@ -8,7 +8,7 @@ This project showcases a clean UI design for an online plant store.
 ## 🚀 Live Demo
 
 🔗 [View Website Here](#)
-*(Add your GitHub Pages link here)*
+*(https://harish-1411.github.io/Greenden-Tailwind/)*
 
 ---
 
